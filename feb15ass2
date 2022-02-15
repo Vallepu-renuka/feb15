@@ -1,0 +1,9 @@
+a=int(input('enter value of a:'))
+b=int(input('enter value of b:'))
+print(a//b)
+print(a/b)
+Output:
+enter value of a:68
+enter value of b:4
+17
+17.0
