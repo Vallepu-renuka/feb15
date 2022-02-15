@@ -1,0 +1,12 @@
+a=int(input('enter number:'))
+b=int(input('enter the number:'))
+print(a+b)
+print(a-b)
+print(a*b) 
+Output:
+enter number:5
+enter the number:3
+8
+2
+15
+
